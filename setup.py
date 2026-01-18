@@ -4,7 +4,7 @@ setup(
     name="pct_pro_engine",
     version="1.0.0",
     description="Phylogenetic Cognitive Transformer Pro: A State-of-the-Art IoMT-IDS Framework",
-    author="Yar Muhammad, Umer Tanveer",
+    author="Umer Tanveer, Yar Muhammad",
     packages=find_packages(),
     install_requires=[
         "numpy",

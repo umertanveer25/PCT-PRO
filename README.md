@@ -102,7 +102,7 @@ If you use PCT-PRO in your research, please cite:
 ```bibtex
 @article{muhammad2025pctpro,
   title={Phylogenetic Cognitive Transformer Pro: A Hybrid Neuro-Tree Framework for IoMT Security},
-  author={Muhammad, Yar and Tanveer, Umer},
+  author={Tanveer, Umer and Muhammad, Yar},
   journal={Advanced Security in Internet of Medical Things},
   year={2025}
 }
@@ -112,8 +112,8 @@ If you use PCT-PRO in your research, please cite:
 
 ## 👨‍💻 Authors
 Developed with passion for IoMT safety by:
-*   **Yar Muhammad**
 *   **Umer Tanveer**
+*   **Yar Muhammad**
 
 ---
 

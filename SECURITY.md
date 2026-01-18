@@ -12,8 +12,8 @@ We currently support the following versions of PCT-PRO with security updates:
 
 If you discover a security vulnerability within this framework, please do not open a public issue. Instead, please report it directly to the authors:
 
-*   **Yar Muhammad**
 *   **Umer Tanveer**
+*   **Yar Muhammad**
 
 We will acknowledge your report within 48 hours and provide a timeline for a fix.
 

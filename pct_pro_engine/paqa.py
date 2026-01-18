@@ -2,7 +2,7 @@
 Protocol-Aware Quantum Attention (PAQA)
 ---------------------------------------
 A context-gating attention mechanism for clinical protocol compliance.
-Authors: Yar Muhammad, Umer Tanveer (2025)
+Authors: Umer Tanveer, Yar Muhammad (2025)
 """
 
 import tensorflow as tf

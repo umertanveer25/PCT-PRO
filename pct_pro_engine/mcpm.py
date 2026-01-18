@@ -2,7 +2,7 @@
 Multi-Clade Phylogenetic Mapping (MCPM)
 ---------------------------------------
 A behavioral lineage tracking system and feature synthesizer.
-Authors: Yar Muhammad, Umer Tanveer (2025)
+Authors: Umer Tanveer, Yar Muhammad (2025)
 """
 
 import numpy as np

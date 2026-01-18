@@ -2,7 +2,7 @@
 Phylogenetic Cognitive Transformer Pro (PCT-PRO)
 Core Engine Implementation
 --------------------------------------------------
-Authors: Yar Muhammad, Umer Tanveer (2025)
+Authors: Umer Tanveer, Yar Muhammad (2025)
 License: MIT
 """
 

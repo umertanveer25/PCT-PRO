@@ -22,4 +22,4 @@ First off, thank you for considering contributing to PCT-PRO! It's people like y
 ## Community
 Join our research discussions to help build a safer Internet of Medical Things.
 
-**Authors**: Yar Muhammad & Umer Tanveer
+**Authors**: Umer Tanveer & Yar Muhammad

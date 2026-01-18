@@ -13,4 +13,4 @@ Examples of behavior that contributes to a positive environment for our communit
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the authors. All complaints will be reviewed and investigated promptly and fairly.
 
-**Authors**: Yar Muhammad & Umer Tanveer
+**Authors**: Umer Tanveer & Yar Muhammad
