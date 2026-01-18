@@ -1,0 +1,23 @@
+{
+    "title": "PCT-PRO: Phylogenetic Cognitive Transformer Pro",
+    "description": "A State-of-the-Art Intrusion Detection System framework for IoMT, fusing phylogenetic behavioral mapping with protocol-aware attention.",
+    "creators": [
+        {
+            "name": "Tanveer, Umer",
+            "affiliation": "University of Gujrat"
+        },
+        {
+            "name": "Muhammad, Yar",
+            "affiliation": "University of Gujrat"
+        }
+    ],
+    "keywords": [
+        "IoMT",
+        "Intrusion Detection",
+        "Deep Learning",
+        "Phylogenetics",
+        "Cybersecurity"
+    ],
+    "access_right": "open",
+    "license": "MIT"
+}
