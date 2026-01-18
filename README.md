@@ -50,6 +50,18 @@ Evaluated against the original published results of foundation papers:
 
 ---
 
+## 📈 Visual Evidence
+
+The framework's superiority is empirically proven through comprehensive statistical analysis.
+
+| **Confusion Matrix** | **ROC-AUC Curve** |
+| :---: | :---: |
+| ![CM](assets/confusion_matrix.png) | ![ROC](assets/roc_auc_curve.png) |
+| **Precision-Recall** | **Phylogenetic Features** |
+| ![PRC](assets/precision_recall_curve.png) | ![Feat](assets/feature_importance.png) |
+
+---
+
 ## 🚀 Quick Start
 
 ### Installation
